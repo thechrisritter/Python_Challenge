@@ -4,6 +4,7 @@ import numpy as np
 with plt.xkcd():
     # Based on "Stove Ownership" from XKCD by Randall Monroe
     # http://xkcd.com/418/
+    # Not my code, forgot where it came from...
 
     fig = plt.figure()
     ax = fig.add_axes((0.1, 0.2, 0.8, 0.7))
