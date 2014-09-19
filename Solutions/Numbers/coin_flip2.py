@@ -1,5 +1,5 @@
 # Coin Flip 2
-# Performs "Coin Flip" in significantly less lines.
+# Performs "Coin Flip" in fewer lines.
 
 import random
 
